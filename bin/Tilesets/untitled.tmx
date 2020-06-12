@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="16" height="2" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="dot_day23___alternate_volcano_tiles_by_phyromatical_dasqpje-fullview" tilewidth="32" tileheight="32" tilecount="110" columns="11">
+  <image source="C:/Users/My Laptop/Downloads/dot_day23___alternate_volcano_tiles_by_phyromatical_dasqpje-fullview.png" width="368" height="320"/>
+ </tileset>
+ <tileset firstgid="111" name="dot_day23___alternate_volcano_tiles_by_phyromatical_dasqpje-fullview - Copy" tilewidth="32" tileheight="32" tilecount="460" columns="23">
+  <image source="C:/Users/My Laptop/Downloads/dot_day23___alternate_volcano_tiles_by_phyromatical_dasqpje-fullview - Copy.png" width="736" height="640"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="16" height="2">
+  <data encoding="csv">
+0,181,134,134,134,134,134,134,134,134,134,181,181,181,181,111,
+134,134,134,134,134,134,134,134,134,134,134,111,111,111,111,111
+</data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="16" height="2">
+  <data encoding="csv">
+1,114,203,204,205,180,181,182,157,158,159,136,249,226,227,250,
+0,121,122,123,138,139,140,161,162,163,141,142,164,165,0,0
+</data>
+ </layer>
+</map>
